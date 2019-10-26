@@ -1,5 +1,6 @@
 body{
 background: #777;
+color: #777;
 width: 960px;
 height: 320px;
 font-size: 18px;
@@ -9,9 +10,9 @@ margin-left: 5%;
 
 header{
 background: #ebebeb;
-margin-bottom: 40px;
+margin-bottom: 10px;
 width: 94%;
-height: 72px;
+height: 90px;
 text-align: center;
 float: center;
 }
@@ -19,11 +20,12 @@ float: center;
 #nav{
 background: #ebebeb;
 width: 94%;
-margin-top: 20px;
-
+margin-bottom: 10px;
 text-align: center;
+
+
 float: center;
-height: 72px;
+height: 100px;
 }
 
 #aside{
@@ -32,7 +34,7 @@ padding: 30px;
 float: right;
 width: 200px;
 height: 211px;
-margin-top: 50px;
+margin-top: 10px;
 margin-bottom: 300px;
 margin-right: 57px;
 text-align: center;
@@ -46,12 +48,13 @@ padding: 60px;
 height: 150px;
 text-align: center;
 float: left;
-margin-top: 50px;
+margin-top: 10px;
 
 }
 
 #article{
 background: #777;
+color: #ebebeb;
 padding: 40px;
 height: 100px;
 
@@ -59,18 +62,20 @@ height: 100px;
 
 #headers{
 background: #ebebeb; 
+color: #777;
 margin-bottom: 20px;  
 }
 
 #paragraph{
 background: #ebebeb;
+color: #777;
 }
 
 #footer{
 background: #ebebeb;
-margin-top: 400px;
+margin-top: 310px;
 width: 94%;
-height: 72px;
-
+height: 90px;
+float: center;
 text-align: center;
 }
